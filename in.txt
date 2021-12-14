@@ -1,0 +1,5 @@
+boat1;ITA;11.5;2000;vela
+boat2;ITA;10.5;2400;motore
+boat3;ITA;12.5;2300;vela
+boat4;DEU;13.5;2200;motore
+boat5;ENG;14.5;2100;vela
